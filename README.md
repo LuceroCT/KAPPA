@@ -17,3 +17,5 @@ El presente proyecto tiene como objetivo desarrollar un programa de almacenes au
 3. Incluir en el repositorio 
   - Código fuente
   - Diagrama de clases
+
+fuentes alv
