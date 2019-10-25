@@ -1,4 +1,4 @@
-# QAPA
+# KAPPA
 #Curso: Programación Orientada a Objetos
 
 **Integrantes**
