@@ -4,7 +4,7 @@
 **Integrantes**
 
 - Noemi Ramirez
-- Mario Ríos
+- Mario Rios
 - Lucero Condor
 
 **Objetivos**
