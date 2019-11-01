@@ -3,9 +3,9 @@
 
 **Integrantes**
 
-- Noemi Ramirez
-- Mario Rios
-- Lucero Condor
+- Noemi Ramirez (NoemiRC)
+- Mario Rios (morphisjustfun)
+- Lucero Condor (LuceroCT)
 
 **Objetivos**
 
