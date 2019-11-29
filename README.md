@@ -21,3 +21,6 @@ El presente proyecto tiene como objetivo desarrollar un programa de almacenes au
 **Spreadsheet**
 
 link: https://docs.google.com/spreadsheets/d/1pcdQ_X3GZHwWKhjSLTTrsI735lgOQ2fUjVNav5QGgU0/edit#gid=0 
+
+**Presentación de código**
+https://docs.google.com/presentation/d/1Z8Voo4_61J4K9Cw68531zDouqMvH1J9x0v6uAM4nL6I/edit#slide=id.g75ad6f3748_0_355
